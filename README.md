@@ -33,3 +33,7 @@ python /home/ubuntu/aws_assign_eip.py
 ```
 
 ![AWS Cloud-Init](img/aws_cloud-init.png)
+
+
+### To do ###
+Provide IAM policy required to run it.
